@@ -1,2 +1,2 @@
 include:
-  - board: bt65//zmk
+  - board: bt65/zmk
